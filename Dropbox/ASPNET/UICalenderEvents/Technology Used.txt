@@ -1,0 +1,3 @@
+Developed Code using Visual Studio 2017 Community
+Created SQL Server mdf file within VS 
+Downloaded CalanderUI AngularJS io

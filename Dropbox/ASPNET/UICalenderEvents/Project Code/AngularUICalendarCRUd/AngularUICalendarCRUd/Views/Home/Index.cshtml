@@ -1,0 +1,89 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<!--Styles for UI calender-->
+<link href="~/Content/fullcalendar.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Contents/CalendarStyle.css" rel="stylesheet" />
+<!--Angualar script libraries-->
+<script src="~/Scripts/moment.js"></script>
+<script src="~/Scripts/jquery-1.11.3.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular.js"></script>
+<script src="~/Scripts/calendar.js"></script>
+<script src="~/Scripts/fullcalendar.js"></script>
+<script src="~/Scripts /gcal.js"></script>
+<!--Current application Scripts-->
+<script src="~/Scripts/myscript.js"></script>
+<!--Bootstrap Angular UI Modal popup script library-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.3.2/ui-bootstrap-tpls.min.js"></script>
+@* HTML *@
+<div ng-app="myapp" ng-controller="CalenderController">
+    <main>
+        <table border="0" width="90%" align="center" >
+            <tr>
+                <td colspan="4">
+                    <h2>Person Calender Events</h2>
+                </td>
+            </tr>
+            <tr>
+                <td width="15%">                    
+                    <label>Select Person :</label>
+                </td>
+                <td width="35%">
+                    <select data-ng-options="o.Name for o in personlist" ng-model="PersonId" ng-change="LoadPersonEvents()">
+                        <option value="">--Select Person--</option>
+                        <option value="{{o.Id}}">
+                    </select>
+                </td>
+                <td width="10%">
+                    <label ng-if="PersonId">Email ID : </label>
+                </td>
+                <td width="40%">
+                    <label ng-if="PersonId">{{PersonId.Email}}</label>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <br /><br />
+                    <div>
+                        <script type="text/ng-template" id="modalContent.html">
+                            <div class="modal-header">
+                                <h3 class="modal-title">Events</h3>
+                            </div>
+                            <div class="modal-body">
+                                <div style="color:red">{{Message}}</div>
+                                <div class="form-group">
+                                    <label>Event Title : </label>
+                                    <input type="text" ng-model="NewEvent.Title" autofocus class="form-control" />
+                                </div>
+                                <div class="form-group">
+                                    <label>Description : </label>
+                                    <input type="text" ng-model="NewEvent.Description" class="form-control" />
+                                </div>
+                                <div class="form-group">
+                                    <label>Time Slot : </label>
+                                    <span>{{NewEvent.StartAt}} - {{NewEvent.EndAt}}</span>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" type="button" ng-click="ok()">Save</button>
+                                <button class="btn btn-danger" type="button" ng-show="NewEvent.EventID > 0" ng-click="delete()">Delete</button>
+                                <button class="btn btn-warning" type="button" ng-click="cancel()">Cancel</button>
+
+                            </div>
+                            <!--Angular modal dialog code ends here-->
+                        </script>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <!--this element displays the UI-caledar-->
+                                <div id="calendar" ui-calendar="uiConfig.calendar" ng-model="eventSources" calendar="myCalendar"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                </td>
+            </tr>
+        </table>
+    </main>
+
+</div>

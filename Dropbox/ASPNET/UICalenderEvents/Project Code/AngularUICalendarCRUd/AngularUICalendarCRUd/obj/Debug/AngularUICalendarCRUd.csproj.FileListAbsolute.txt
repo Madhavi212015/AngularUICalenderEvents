@@ -1,0 +1,204 @@
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\csc.exe
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\csc.exe.config
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\csc.rsp
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\csi.exe
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\csi.rsp
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\System.AppContext.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\System.Collections.Immutable.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\System.IO.FileSystem.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\vbc.exe
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\vbc.exe.config
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\vbc.rsp
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\VBCSCompiler.exe
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\roslyn\VBCSCompiler.exe.config
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.dll.config
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.pdb
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\Microsoft.Web.Infrastructure.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Helpers.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Mvc.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Razor.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Webpages.Deployment.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Webpages.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Webpages.Razor.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Razor.xml
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Webpages.xml
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Webpages.Deployment.xml
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Webpages.Razor.xml
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Helpers.xml
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\System.Web.Mvc.xml
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.csprojResolveAssemblyReference.cache
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.pdb
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\EntityFramework.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\EntityFramework.SqlServer.dll
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\EntityFramework.xml
+c:\users\abdul\documents\visual studio 2017\Projects\AngularUICalendarCRUd\AngularUICalendarCRUd\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\csc.exe
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\csc.exe.config
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\csc.rsp
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\csi.exe
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\csi.rsp
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\System.AppContext.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\vbc.exe
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\vbc.exe.config
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\vbc.rsp
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.dll.config
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.pdb
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\EntityFramework.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Helpers.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Mvc.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Razor.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.Razor.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\EntityFramework.xml
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Razor.xml
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.xml
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.Razor.xml
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Helpers.xml
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\bin\System.Web.Mvc.xml
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.csprojResolveAssemblyReference.cache
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.dll
+C:\Users\Abdul\Documents\visual studio 2017\Projects\AngularUICalendarCRUd - Copy\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.pdb
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.csprojResolveAssemblyReference.cache
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.pdb
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\csc.exe
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\csc.exe.config
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\csc.rsp
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\csi.exe
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\csi.rsp
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\System.AppContext.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\vbc.exe
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\vbc.exe.config
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\vbc.rsp
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.dll.config
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.pdb
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\EntityFramework.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Helpers.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Mvc.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Razor.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Webpages.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Webpages.Razor.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\EntityFramework.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Razor.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Webpages.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Webpages.Razor.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Helpers.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Trying One More\AngularUICalendarCRUd\bin\System.Web.Mvc.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\csc.exe
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\csc.exe.config
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\csc.rsp
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\csi.exe
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\csi.rsp
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\System.AppContext.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\vbc.exe
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\vbc.exe.config
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\vbc.rsp
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.dll.config
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\AngularUICalendarCRUd.pdb
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\EntityFramework.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Helpers.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Mvc.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Razor.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.Razor.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\EntityFramework.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Razor.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Webpages.Razor.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Helpers.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\bin\System.Web.Mvc.xml
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.dll
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.pdb
+C:\Users\Abdul\Documents\Visual Studio 2017\Projects\AngularUICalendarCRUd - Latest - Success - Copy\AngularUICalendarCRUd\obj\Debug\AngularUICalendarCRUd.csprojResolveAssemblyReference.cache

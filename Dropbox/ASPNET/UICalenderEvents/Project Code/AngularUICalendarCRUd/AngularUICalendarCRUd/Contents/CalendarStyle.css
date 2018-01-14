@@ -1,0 +1,35 @@
+﻿#myCalendar main {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 24px;
+    max-width: 80%;
+    background-color: mediumvioletred;
+}
+
+ 
+        #myCalendar main section.inc {
+            background-color: royalblue;
+            width:30%;
+        }
+
+    #myCalendar main section.inc.label {
+        background-color: lightcoral;
+        width: 30%;
+    }
+
+        #myCalendar main section.inc.label ::after {
+            content: '';
+            display: block;
+            clear: both;
+        }
+
+    #myCalendar main section.lbl {
+        background-color: gold;
+        width: 30%;
+    }
+
+
+

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SQLCalenderModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="EventCalender">
+    <Key>
+      <PropertyRef Name="EventID" />
+    </Key>
+    <Property Name="EventID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="250" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="StartAt" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="EndAt" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="IsFullDay" Type="Boolean" Nullable="false" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Person" Relationship="Self.FK_EventCalender_PersonId" FromRole="EventCalender" ToRole="Person" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Contact" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="EventCalenders" Relationship="Self.FK_EventCalender_PersonId" FromRole="Person" ToRole="EventCalender" />
+  </EntityType>
+  <Association Name="FK_EventCalender_PersonId">
+    <End Role="Person" Type="Self.Person" Multiplicity="1" />
+    <End Role="EventCalender" Type="Self.EventCalender" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EventCalender">
+        <PropertyRef Name="PersonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SQLCalenderEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="EventCalenders" EntityType="Self.EventCalender" />
+    <EntitySet Name="People" EntityType="Self.Person" />
+    <AssociationSet Name="FK_EventCalender_PersonId" Association="Self.FK_EventCalender_PersonId">
+      <End Role="Person" EntitySet="People" />
+      <End Role="EventCalender" EntitySet="EventCalenders" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
